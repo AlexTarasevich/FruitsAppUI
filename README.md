@@ -1,3 +1,3 @@
 # FruitsAppUI
 FruitsAppUI is an application that allows you to select a fruit and read its description
-! [Demo for README] (https://user-images.githubusercontent.com/66253091/190261782-e0f0725d-9a17-4827-98f2-eb2ae8cee02f.gif)
+![Запись экрана 2022-09-14 в 23 53 14](https://user-images.githubusercontent.com/66253091/190262527-84e81263-b36f-4ec6-9724-21a48d4473ac.gif)
